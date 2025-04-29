@@ -18,7 +18,7 @@ Rq: Les matières optionelles ne sont prises en compte que si vous changez la va
 
 
 Encore à ajouter:
-- optimisateur ajout point ambassadeur tout en laissant le choix à l'utilisateur
+- optimisateur ajout point ambassadeur tout en laissant le choix à l'utilisateur (peu être mis sur un UE par an si 4 actions ou plus dans l'année, ne peut sauver d'un ratttrappage qu'au 2ème semestre et s'applioque après note de rattrappages au premier, mettre pour maximiser moyenne sur un 1 an sauf si un UE n'est pas validé)
 - ajout possibilité ajout note de rattrappage (remplasse toujours la note originale même si inférieure)
 - ajout possibilité de mettre un forçage après le premier ou le second conseil de classe
 - CENT absent toute la 2ème année
