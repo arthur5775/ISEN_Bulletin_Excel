@@ -22,4 +22,3 @@ Encore à ajouter:
 - ajout possibilité ajout note de rattrappage (remplasse toujours la note originale même si inférieure)
 - ajout possibilité de mettre un forçage après le premier ou le second conseil de classe
 - CENT absent toute la 2ème année
-- Calcul possibilité départ UQAC pour CIR + moyenne semestre 4 et 5 avec conditonellle à 13 sur S6 (à vérifier)
