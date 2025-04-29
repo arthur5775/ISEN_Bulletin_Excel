@@ -4,7 +4,8 @@ Vous pouvez choisir votre cycle sur la première feuille de calcul ainsi que si 
 Code couleur:  
   Moyenne smestres:  
   - rouge < 10  
-  - vert > 10  
+  - vert > 10
+
   UE:  
   - rouge < 10  
   - jaune >= 10 & < 11  
