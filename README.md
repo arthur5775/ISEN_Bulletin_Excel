@@ -9,13 +9,17 @@ Code couleur:
   Moyenne UE:  
   - rouge < 10  
   - jaune >= 10 & < 11  
-  - vert > 11  
+  - vert > 11
+
+  Grade:
+  - Grade A : 10% des meilleurs étudiants
+  - Grade B : 25% suivants
+  - Grade C : 30% suivants
+  - Grade D : 25% suivants
+  - Grade E : 10% suivants
+  - Grade F : Non validé (note inférieure à 10/20)
   
 Rq: Les matières optionelles ne sont prises en compte que si vous changez la valeur du poids de la matière dans le menu déroulant sur la feuille de calcul du semestre concerné.  
-  
-  
-  
-  
   
 Encore à ajouter:
 - ajout calcul grade si moins de 30 élèves ou rentrer manuellement (sur première feuille de calcul rentrer nombre d'élève par an ou semestre)
