@@ -11,12 +11,12 @@ Code couleur:
   - jaune >= 10 & < 11  
   - vert > 11  
 
-Rq: Les matières optionelles ne sont prises en compte que si vous changez la valeur du poids de la matière dans le menu déroulant sur la feuille de calcul du semestre concerné.
-
-
-
-
-
+Rq: Les matières optionelles ne sont prises en compte que si vous changez la valeur du poids de la matière dans le menu déroulant sur la feuille de calcul du semestre concerné.  
+  
+  
+  
+  
+  
 Encore à ajouter:
 - ajout calcul grade si moins de 30 élèves ou rentrer manuellement (sur première feuille de calcul rentrer nombre d'élève par an ou semestre)
 - ajout calcul GPA grâce au grades (cf fichier anglais)
