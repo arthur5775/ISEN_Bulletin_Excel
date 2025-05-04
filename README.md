@@ -18,7 +18,10 @@ Rq: Les matières optionelles ne sont prises en compte que si vous changez la va
 
 
 Encore à ajouter:
-- optimisateur ajout point ambassadeur tout en laissant le choix à l'utilisateur (peu être mis sur un UE par an si 4 actions ou plus dans l'année, ne peut sauver d'un ratttrappage qu'au 2ème semestre et s'applioque après note de rattrappages au premier, mettre pour maximiser moyenne sur un 1 an sauf si un UE n'est pas validé)
+- ajout calcul grade si moins de 30 élèves ou rentrer manuellement (sur première feuille de calcul rentrer nombre d'élève par an ou semestre)
+- ajout calcul GPA grâce au grades (cf fichier anglais)
+- ajout possibilité de mettre un forçage après le premier ou le second conseil de classe (remplace la note par 10,00)
 - ajout possibilité ajout note de rattrappage (remplasse toujours la note originale même si inférieure) (saud si dû à maladie donc faire différents cas)
-- ajout possibilité de mettre un forçage après le premier ou le second conseil de classe
+- optimisateur ajout point ambassadeur tout en laissant le choix à l'utilisateur (peu être mis sur un UE par an si 4 actions ou plus dans l'année, ne peut sauver d'un ratttrappage qu'au 2ème semestre et s'applioque après note de rattrappages au premier, mettre pour maximiser moyenne sur un 1 an sauf si un UE n'est pas validé)
+- calcul minimum sur notes restantes pour objectif donné (valider matière à 10, 13 ou autre avec courbes en prenant valeurs incrémentées de 0,25)
 - CENT absent toute la 2ème année
