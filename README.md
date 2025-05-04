@@ -12,12 +12,17 @@ Code couleur:
   - vert > 11
 
   Grade:
-  - Grade A : 10% des meilleurs étudiants
-  - Grade B : 25% suivants
-  - Grade C : 30% suivants
-  - Grade D : 25% suivants
-  - Grade E : 10% suivants
-  - Grade F : Non validé (note inférieure à 10/20)
+  - Grade A : 10% des meilleurs étudiants (GPA = 4.0)
+  - Grade B : 25% suivants (GPA = 3.0)
+  - Grade C : 30% suivants (GPA = 2.0)
+  - Grade D : 25% suivants (GPA = 1.0)
+  - Grade E : 10% suivants (GPA = 0.0)
+  - Grade F : Non validé (note inférieure à 10/20) (GPA = 0.0)
+
+  GPA: (formule estimée à vérifier avec la direction des études)
+  - GPA = [∑(Points_GPA_module × ECTS_module) + (Points_GPA_moyenne × ECTS_moyenne)] / (Total_ECTS)
+  - ECTS_moyenne = 30
+  - Total_ECTS = 60
   
 Rq: Les matières optionelles ne sont prises en compte que si vous changez la valeur du poids de la matière dans le menu déroulant sur la feuille de calcul du semestre concerné.  
   
