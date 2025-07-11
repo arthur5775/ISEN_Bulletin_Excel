@@ -36,7 +36,7 @@ Encore à ajouter:
 - ajout testeur (domaine professionnel IPA (Ingénieur de Projet et d'Affaires) : niveau B2+ en anglais, 800+ au TOEIC en fin d’année 3 et doit suivre des cours de LV2 pendant le temps du domaine professionnel + domaine professionnel Finance : niveau B2+ en anglais, 800+ au TOEIC en fin d’année 3)
 - ajout cours LV2 comme note option
 - ajout possibilité de mettre un forçage après le premier ou le second conseil de classe (remplace la note par 10,00)
-- ajout possibilité note de rattrappage (remplasse toujours la note originale même si inférieure) (saud si dû à maladie donc faire différents cas)
-- optimisateur ajout point ambassadeur tout en laissant le choix à l'utilisateur (peu être mis sur un UE par an si 4 actions ou plus dans l'année, ne peut sauver d'un ratttrappage qu'au 2ème semestre et s'applioque après note de rattrappages au premier, mettre pour maximiser moyenne sur un 1 an sauf si un UE n'est pas validé)
+- ajout possibilité note de rattrappage (remplasse toujours la note originale même si inférieure) (sauf si dû à maladie donc faire différents cas)
+- optimisateur ajout point ambassadeur tout en laissant le choix à l'utilisateur (peu être mis sur un UE par an si 4 actions ou plus dans l'année, ne peut sauver d'un ratttrappage qu'au 2ème semestre et s'applique après note de rattrappages au premier, mettre pour maximiser moyenne sur un 1 an sauf si un UE n'est pas validé)
 - calcul minimum sur notes restantes pour objectif donné (valider matière à 10, 13 ou autre avec courbes en prenant valeurs incrémentées de 0,25)
 - CENT absent toute la 2ème année
